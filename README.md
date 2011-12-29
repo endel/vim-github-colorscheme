@@ -1,7 +1,14 @@
 vim-github-colorscheme
----
+===
 
 A vim colorscheme based on github's syntax highlighting 
+
+Screenshots
+---
+
+![Screenshot](http://i.imgur.com/LJXdy.png )
+
+![Diffsplit screenshot](http://i.imgur.com/RKtVD.png)
 
 Install it using Pathogen or Vundle.
 
