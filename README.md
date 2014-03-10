@@ -1,7 +1,13 @@
 vim-github-colorscheme
 ===
 
-A vim colorscheme based on github's syntax highlighting 
+A vim colorscheme based on github's syntax highlighting. Originally created by
+[Anthony Carapetis](http://www.vim.org/scripts/script.php?script_id=2855)
+
+```viml
+" ~/.vimrc
+colorscheme github
+```
 
 Screenshots
 ---
@@ -12,9 +18,7 @@ Screenshots
 
 Install it using Pathogen or Vundle.
 
-Credits
+License
 ---
 
-Created by Anthony Carapetis
-http://www.vim.org/scripts/script.php?script_id=2855
-
+Distributed under the same terms as Vim itself. See `:help license`.
