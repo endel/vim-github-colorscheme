@@ -67,7 +67,7 @@ hi Type     ctermfg=60 guifg=#445588 gui=bold   cterm=bold
 hi Number   ctermfg=30 guifg=#1C9898
 hi Todo     ctermfg=15 ctermbg=88 guifg=#FFFFFF guibg=#990000 gui=bold cterm=bold
 hi Special  ctermfg=28 guifg=#159828 gui=bold   cterm=bold
-hi Todo         ctermbg=15 ctermfg=196guibg=#f8f8ff guifg=#ff1100 gui=underline cterm=underline
+hi Todo         ctermbg=15 ctermfg=196 guibg=#f8f8ff guifg=#ff1100 gui=underline cterm=underline
 hi Label        ctermfg=0 guifg=#000000 gui=bold    cterm=bold
 hi StorageClass ctermfg=0 guifg=#000000 gui=bold    cterm=bold
 hi Structure    ctermfg=0 guifg=#000000 gui=bold    cterm=bold
