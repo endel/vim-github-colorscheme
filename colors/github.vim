@@ -34,6 +34,7 @@ hi LineNr   ctermfg=246 ctermbg=15 guifg=#959595 guibg=#ECECEC gui=bold cterm=bo
 hi SpecialKey ctermfg=6 guifg=#177F80 gui=italic cterm=italic
 hi WarningMsg ctermfg=167 guifg=#ef5939
 hi ErrorMsg ctermbg=15 ctermfg=196 guibg=#f8f8ff guifg=#ff1100 gui=undercurl cterm=undercurl
+hi ColorColumn ctermbg=254 guibg=#e4e4e4
 " }}}
 
 " {{{ Vim => 7.0 specific colors
