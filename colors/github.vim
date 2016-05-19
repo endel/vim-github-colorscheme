@@ -39,7 +39,7 @@ hi ColorColumn ctermbg=254 guibg=#e4e4e4
 
 " {{{ Vim => 7.0 specific colors
 if version >= 700
-    hi CursorLine ctermbg=253 guibg=#D8D8DD
+    hi CursorLine ctermbg=253 guibg=#D8D8DD cterm=none
     hi MatchParen ctermfg=0 ctermbg=252 guifg=#000000 guibg=#cdcdfd
     hi Pmenu        ctermfg=15 ctermbg=8 guifg=#ffffff guibg=#808080 gui=bold   cterm=bold
     hi PmenuSel     ctermfg=0 ctermbg=252 guifg=#000000 guibg=#cdcdfd  gui=italic cterm=italic
